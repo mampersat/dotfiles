@@ -1,3 +1,6 @@
+# Prompts
+PS1="$(tput setaf 2)[ \h:\W \u]$ "
+
 # Colors
 export CLICOLOR=1
 export LSCOLORS=GxFxCxDxBxegedabagaced
