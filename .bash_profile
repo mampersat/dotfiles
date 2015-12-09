@@ -19,6 +19,7 @@ export PATH=$NDK:$SDK/tools:$SDK/platform-tools:$PATH
 
 alias mtr=/usr/local/sbin/mtr
 alias dc=docker-compose
+alias dmeval='eval "$(docker-machine env default)"'
 
 # eval "$(rbenv init -)"
 
