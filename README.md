@@ -1,5 +1,7 @@
 # dot files
+
 ##### Table of contents
+
 ## Source Material
 https://www.foraker.com/blog/get-your-dotfiles-under-control
 
