@@ -1,5 +1,5 @@
 # Prompts
-PS1="$(tput setaf 2)[ \h:\W \u]$ "
+PS1="$(tput setaf 2)[ \h:\W \u]$ $(tput setaf 256)"
 
 # Colors
 export CLICOLOR=1
