@@ -1,6 +1,6 @@
 # dot files
 
-##### Table of contents
+__TOC__
 
 ## Source Material
 https://www.foraker.com/blog/get-your-dotfiles-under-control
