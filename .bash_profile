@@ -1,5 +1,5 @@
 # Prompts
-PS1="$(tput setaf 2)[ \h:\W \u]$ $(tput setaf 256)"
+PS1='\[\e[1;32m\][\u@\h \W]\$\[\e[0m\] '
 
 # Colors
 export CLICOLOR=1
