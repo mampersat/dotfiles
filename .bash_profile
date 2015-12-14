@@ -1,5 +1,6 @@
-# Prompts
+# Prompts and stuff
 PS1='\[\e[1;32m\][\u@\h \W]\$\[\e[0m\] '
+export HISTTIMEFORMAT="%d/%m/%y %T "
 
 # Colors
 export CLICOLOR=1
