@@ -28,7 +28,7 @@ export DYN_CHEF_DATA="${HOME}/work/cookbooks/dyn_chef_data"
 export SSL_CERT_FILE="${DYN_CHEF_DATA}/config/cacert.pem"
 export CHEF_CB_DIR="${HOME}/work/cookbooks/"
 export DRIVER_PLUGIN="vagrant"
-export PROVISIONER="chef_solo"
+export PROVISIONER="chef_zero"
 export VAGRANT_DEFAULT_PROVIDER="virtualbox"
 eval "$(rbenv init -)"
 
